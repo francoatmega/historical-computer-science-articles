@@ -28,6 +28,8 @@ This repository is curated collection of historically significant articles [with
 ### Databases
 
   * A Relational Model of Data for Large Shared Data Banks [1970]
+  * The Transaction Concept - Virtues and Limitations [1981]
+  * Principles of Transaction-Oriented Database Recovery [1983]
   * Harvest, Yield, and Scalable Tolerant Systems [1999]
 
 ### Miscellaneous
