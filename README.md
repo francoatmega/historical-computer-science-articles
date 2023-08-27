@@ -13,6 +13,7 @@ This repository is curated collection of historically significant articles [with
 ### Cryptography
 
   * New directions in cryptography [1976]
+  * Riemann's hypothesis and tests for primality [1976]
   * PRIMES is in P [2002]
 
 ### AI
