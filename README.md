@@ -19,7 +19,7 @@ This repo is a curated list of some of most historical important articles of com
 
   * A logical calculus of the ideas immanent in nervous activity [1943]
 
-### Nwtworks
+### Networks
 
   * A Protocol for Packet Network Intercommunication [1974]
   * Architectural Styles and the Design of Network-based Software Architectures [2000]
