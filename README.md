@@ -4,7 +4,7 @@ This repository is curated collection of historically significant articles [with
 
 ### Programming
 
-  * Go to statement considered harmful [1968]
+  * Go to Statement Considered Harmful [1968]
   * No Silver Bullet - Essence and Accidents of Software Engineering [1986]
   * A Behavioral Notion of Subtyping [1994]
   * Design Principles and Design Patterns [2000]
@@ -12,13 +12,13 @@ This repository is curated collection of historically significant articles [with
 
 ### Cryptography
 
-  * New directions in cryptography [1976]
-  * Riemann's hypothesis and tests for primality [1976]
+  * New directions in Cryptography [1976]
+  * Riemann's Hypothesis and Tests for Primality [1976]
   * PRIMES is in P [2002]
 
 ### AI
 
-  * A logical calculus of the ideas immanent in nervous activity [1943]
+  * A Logical Calculus of the Ideas Immanent in Nervous Activity [1943]
 
 ### Networks
 
@@ -28,6 +28,7 @@ This repository is curated collection of historically significant articles [with
 ### Databases
 
   * A Relational Model of Data for Large Shared Data Banks [1970]
+  * Harvest, Yield, and Scalable Tolerant Systems [1999]
 
 ### Miscellaneous
 
