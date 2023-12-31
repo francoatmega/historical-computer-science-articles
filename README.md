@@ -52,15 +52,15 @@ Welcome to the Historical Computer Science articles repository! This curated ass
 
 ## Operating Systems 🖥️
 
-- Working On 🚧
+- [The UNIX Time-Sharing System (1974)](./Operating%20Systems/The%20UNIX%20Time-Sharing%20System.pdf) - Dennis Ritchie and Ken Thompson's paper on the development of the UNIX operating system.
 
 ## Computer Architecture 🏗️
 
-- Working On 🚧
+- [A Case for Redundant Arrays of Inexpensive Disks (RAID) (1988)](./Computer%20Architecture/A%20Case%20for%20Redundant%20Arrays%20of%20Inexpensive%20Disks%20(RAID).pdf) - David A. Patterson, Garth Gibson, and Randy H. Katz's paper introducing RAID storage technology.
 
 ## Human-Computer Interaction (HCI) 👩🏽‍💻
 
-- Working On 🚧
+- [As We May Think (1945)](./HCI/As%20We%20May%20Think.pdf) - Vannevar Bush's visionary essay on the potential of information retrieval systems, influencing the development of hypertext.
 
 ## Algorithms ⚙️
 
