@@ -1,4 +1,4 @@
-# Historical Computer Science articles repository 📚💻
+# Historical Computer Science articles 📚💻
 
 Welcome to the Historical Computer Science articles repository! This curated assortment of articles represents a journey through the significant milestones in the history of computer science. Contributions are highly encouraged to further enrich this valuable collection. Feel free to add your insights and expand the wealth of knowledge within this repository. 🌐
 
