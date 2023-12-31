@@ -2,9 +2,9 @@
 
 Welcome to the Historical Computer Science articles repository! This curated assortment of articles represents a journey through the significant milestones in the history of computer science. Contributions are highly encouraged to further enrich this valuable collection. Feel free to add your insights and expand the wealth of knowledge within this repository. 🌐
 
-## Programming 💻
+## Programming and Software Engineering 💻
 
-- [Go to Statement Considered Harmful [1968]](link_to_article): A seminal essay by Edsger W. Dijkstra arguing against the use of the "go to" statement in programming languages.
+- [Go to Statement Considered Harmful [1968]](Programming and Software Engineering/Go To Statement Considered Harmful.pdf): A seminal essay by Edsger W. Dijkstra arguing against the use of the "go to" statement in programming languages.
 
 - [No Silver Bullet - Essence and Accidents of Software Engineering [1986]](link_to_article): Frederick P. Brooks Jr.'s influential paper exploring the challenges and complexities of software engineering.
 
