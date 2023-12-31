@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository is curated collection of historically significant articles [with some exceptions] in the field of computer science, feel free to contribute.
+This repository houses a curated assortment of articles that have left a lasting impact on the history of computer science, with a few exceptions. Your contributions are highly encouraged to enhance and expand this valuable collection. Feel free to add your insights and help us enrich the wealth of knowledge within this repository.
 
 ### Programming
 
