@@ -49,3 +49,27 @@ Welcome to the Historical Computer Science articles repository! This curated ass
 - [Regular Expression Search Algorithm [1968]](./Miscellaneous/%20Regular%20Expression%20Search%20Algorithm.pdf): A classic paper introducing an efficient algorithm for searching regular expressions.
 
 - [Bitcoin - A Peer-to-Peer Electronic Cash System [2008]](./Miscellaneous/Bitcoin%20-%20A%20Peer-to-Peer%20Electronic%20Cash%20System.pdf): Satoshi Nakamoto's groundbreaking paper introducing the concept and protocol for Bitcoin, the first decentralized cryptocurrency.
+
+## Operating Systems 🖥️
+
+- Working On 🚧
+
+## Computer Architecture 🏗️
+
+- Working On 🚧
+
+## Human-Computer Interaction (HCI) 👩🏽‍💻
+
+- Working On 🚧
+
+## Algorithms ⚙️
+
+- Working On 🚧
+
+## Security 🔒
+
+- Working On 🚧
+
+## Computer Graphics 🎨
+
+- Working On 🚧
