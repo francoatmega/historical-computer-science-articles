@@ -73,3 +73,5 @@ Welcome to the Historical Computer Science articles repository! This curated ass
 ## Computer Graphics 🎨
 
 - Working On 🚧
+
+Feel free to contribute to this repository by adding more historically significant articles that have shaped the field of computer science.
