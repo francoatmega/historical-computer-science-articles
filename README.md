@@ -42,14 +42,6 @@ Welcome to the Historical Computer Science articles repository! This curated ass
 
 - [Harvest, Yield, and Scalable Tolerant Systems [1999]](./Databases/Harvest,%20yield,%20and%20scalable%20tolerant%20systems.pdf): Leslie Lamport's paper discussing the challenges of building scalable and fault-tolerant distributed systems.
 
-## Miscellaneous 🌐
-
-- [Representation of Events in Nerve Nets and Finite Automata [1956]](./Miscellaneous/Representation%20of%20Events%20in%20Nerve%20Nets%20and%20Finite%20Automata.pdf): Warren McCulloch and Walter Pitts' foundational work on modeling events in nerve nets and finite automata.
-
-- [Regular Expression Search Algorithm [1968]](./Miscellaneous/%20Regular%20Expression%20Search%20Algorithm.pdf): A classic paper introducing an efficient algorithm for searching regular expressions.
-
-- [Bitcoin - A Peer-to-Peer Electronic Cash System [2008]](./Miscellaneous/Bitcoin%20-%20A%20Peer-to-Peer%20Electronic%20Cash%20System.pdf): Satoshi Nakamoto's groundbreaking paper introducing the concept and protocol for Bitcoin, the first decentralized cryptocurrency.
-
 ## Operating Systems 🖥️
 
 - [The UNIX Time-Sharing System (1974)](./Operating%20Systems/The%20UNIX%20Time-Sharing%20System.pdf) - Dennis Ritchie and Ken Thompson's paper on the development of the UNIX operating system.
@@ -73,5 +65,13 @@ Welcome to the Historical Computer Science articles repository! This curated ass
 ## Computer Graphics 🎨
 
 - Working On 🚧
+
+## Miscellaneous 🌐
+
+- [Representation of Events in Nerve Nets and Finite Automata [1956]](./Miscellaneous/Representation%20of%20Events%20in%20Nerve%20Nets%20and%20Finite%20Automata.pdf): Warren McCulloch and Walter Pitts' foundational work on modeling events in nerve nets and finite automata.
+
+- [Regular Expression Search Algorithm [1968]](./Miscellaneous/%20Regular%20Expression%20Search%20Algorithm.pdf): A classic paper introducing an efficient algorithm for searching regular expressions.
+
+- [Bitcoin - A Peer-to-Peer Electronic Cash System [2008]](./Miscellaneous/Bitcoin%20-%20A%20Peer-to-Peer%20Electronic%20Cash%20System.pdf): Satoshi Nakamoto's groundbreaking paper introducing the concept and protocol for Bitcoin, the first decentralized cryptocurrency.
 
 Feel free to contribute to this repository by adding more historically significant articles that have shaped the field of computer science.
