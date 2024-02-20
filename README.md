@@ -2,6 +2,8 @@
 
 Welcome to the Historical Computer Science articles repository! This curated assortment of articles represents a journey through the significant milestones in the history of computer science. Contributions are highly encouraged to further enrich this valuable collection. Feel free to add your insights and expand the wealth of knowledge within this repository. 🌐
 
+Check it out in a fancier way here: https://francoatmega.github.io/historical-computer-science-articles/
+
 ## Programming and Software Engineering 💻
 
 - [Go to Statement Considered Harmful [1968]](./Programming%20and%20Software%20Engineering/Go%20To%20Statement%20Considered%20Harmful.pdf): A seminal essay by Edsger W. Dijkstra arguing against the use of the "go to" statement in programming languages.
