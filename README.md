@@ -74,4 +74,6 @@ Welcome to the Historical Computer Science articles repository! This curated ass
 
 - [Bitcoin - A Peer-to-Peer Electronic Cash System [2008]](./Miscellaneous/Bitcoin%20-%20A%20Peer-to-Peer%20Electronic%20Cash%20System.pdf): Satoshi Nakamoto's groundbreaking paper introducing the concept and protocol for Bitcoin, the first decentralized cryptocurrency.
 
+- [Broken Windows [1982]](./Miscellaneous/Broken%20Windows.pdf): The article that explores Broken Windows theory reveals how disorder fuels crime and societal decline.
+
 Feel free to contribute to this repository by adding more historically significant articles that have shaped the field of computer science.
