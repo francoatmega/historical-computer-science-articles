@@ -22,6 +22,8 @@ Check it out in a fancier way here: https://francoatmega.github.io/historical-co
 
 - [Riemann's Hypothesis and Tests for Primality [1976]](./Cryptography/Riemann's%20hypothesis%20and%20tests%20for%20primality.pdf): A foundational paper discussing the Riemann Hypothesis and its application in primality testing.
 
+- [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems [1978]](./Cryptography/A%20Method%20for%20Obtaining%20Digital%20Signatures%20and%20Public-Key%20Cryptosystems.pdf): Ron Rivest, Adi Shamir, and Leonard Adleman’s groundbreaking paper introduced the RSA cryptosystem, establishing a practical method for secure public-key cryptography and digital signatures.
+
 - [PRIMES is in P [2002]](./Cryptography/PRIMES%20is%20in%20P.pdf): A significant result in computational complexity theory, demonstrating that primality testing can be performed efficiently.
 
 ## AI 🤖
