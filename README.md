@@ -30,6 +30,10 @@ Check it out in a fancier way here: https://francoatmega.github.io/historical-co
 
 - [A Logical Calculus of the Ideas Immanent in Nervous Activity [1943]](./AI/A%20logical%20calculus%20of%20the%20ideas%20immanent%20in%20nervous%20activity.pdf): Warren McCulloch and Walter Pitts' influential paper presenting a logical model of neural activity, laying the foundation for artificial neural networks.
 
+- [Attention Is All You Need [2017]](./AI/Attention%20Is%20All%20You%20Need.pdf): Vaswani et al.'s seminal paper introducing the Transformer architecture, which revolutionized Natural Language Processing (NLP) by replacing recurrent networks with self-attention mechanisms.
+
+- [Improving Language Understanding by Generative Pre-Training [2018]](./AI/Improving%20Language%20Understanding%20by%20Generative%20Pre-Training.pdf): Radford et al.'s foundational work introducing the Generative Pre-trained Transformer (GPT) model, demonstrating the power of large-scale unsupervised pre-training for natural language tasks.
+
 ## Networks 🌐
 
 - [A Protocol for Packet Network Intercommunication [1974]](./Networks/A%20Protocol%20for%20Packet%20Network%20Intercommunication.pdf): Vinton Cerf and Robert Kahn's seminal paper introducing the Transmission Control Protocol (TCP) as a key element of the internet.
