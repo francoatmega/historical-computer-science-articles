@@ -64,7 +64,11 @@ Check it out in a fancier way here: https://francoatmega.github.io/historical-co
 
 ## Algorithms ⚙️
 
-- Working On 🚧
+- **[Algorithm 64 - Quicksort [1961]](./Algorithms/Algorithm%2064%20-%20Quicksort.pdf)**:  
+  C.A.R. Hoare introduces **Quicksort**, a fast and elegant **divide-and-conquer** sorting algorithm with an average **O(n log n)** complexity.
+
+- **[The Complexity of Theorem-Proving Procedures [1971]](./Algorithms/The%20Complexity%20of%20Theorem-Proving%20Procedures.pdf)**:  
+  Stephen Cook’s landmark paper on **NP-completeness**, proving **Boolean satisfiability (SAT)** as the first **NP-complete** problem.
 
 ## Security 🔒
 
@@ -72,7 +76,11 @@ Check it out in a fancier way here: https://francoatmega.github.io/historical-co
 
 ## Computer Graphics 🎨
 
-- Working On 🚧
+- **[A Survey of Texture Mapping [1985]](./Computer%20Graphics/A%20Survey%20of%20Texture%20Mapping.pdf)**:  
+  Paul Heckbert’s **groundbreaking** work on **texture mapping**, a key technique that revolutionized **realistic 3D graphics**.
+
+- **[The Rendering Equation [1986]](./Computer%20Graphics/The%20Rendering%20Equation.pdf)**:  
+  James Kajiya’s **seminal** paper introducing the **Rendering Equation**, the foundation of **realistic lighting** in modern CGI.
 
 ## Miscellaneous 🌐
 
